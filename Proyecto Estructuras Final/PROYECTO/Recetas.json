@@ -1,0 +1,21 @@
+{
+  "ingredientes": ["Huevo", "Leche", "Papa", "Tomate", "Queso", "Pan", "Carne", "Azucar"],
+  "recetas": {
+    "Entrantes": {
+      "Tostada": ["Pan", "Queso", "Huevo", "Tomate"],
+      "Sopa de papa": ["Papa", "Leche", "Queso", "Carne"]
+    },
+    "Platos Principales": {
+      "Hamburguesa": ["Pan", "Carne", "Queso", "Tomate"],
+      "Tortilla": ["Huevo", "Papa", "Queso", "Leche"],
+      "Bistec con papas": ["Carne", "Papa", "Huevo", "Tomate"],
+      "Pizza basica": ["Pan", "Queso", "Tomate", "Carne"],
+      "Revuelto": ["Huevo", "Queso", "Tomate", "Carne"]
+    },
+    "Postres": {
+      "Flan": ["Huevo", "Leche", "Queso", "Azucar"],
+      "Pudin": ["Leche", "Pan", "Huevo", "Azucar"],
+      "Crema de leche": ["Leche", "Azucar", "Huevo", "Queso"]
+    }
+  }
+}
